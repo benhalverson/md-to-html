@@ -9,9 +9,9 @@
   "author": "Ben Halverson <benhalverson33@gmail.com> (http://benhalverson.me/)",
   "license": "MIT",
   "dependencies": {
-    "body-parser": "1.14.1",
-    "express": "4.13.3",
-    "marked": "0.3.5",
-    "morgan": "1.6.1"
+    "body-parser": "1.16.1",
+    "express": "4.14.1",
+    "marked": "0.3.6",
+    "morgan": "1.8.1"
   }
 }
